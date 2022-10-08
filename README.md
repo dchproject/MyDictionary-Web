@@ -5,4 +5,4 @@ Simple Web Site for [Dictionary App](https://github.com/dchproject/Dictionary-Ap
 - github-pages [My Dictionary Web](https://dchproject.github.io/MyDictionary-Web/)
 
 ## License
-MyDictionary_Web is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
+MyDictionary-Web is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
