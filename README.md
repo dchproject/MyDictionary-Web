@@ -1,8 +1,8 @@
 
-Simple Web Site for [Dictionary App](https://github.com/dchproject/Dictionary-App-iOS)
+Simple Web Site for [Dictionary App](https://github.com/dmytrochumakov/Dictionary-App-iOS)
 
 ## Features
-- github-pages [My Dictionary Web](https://dchproject.github.io/MyDictionary-Web/)
+- github-pages [My Dictionary Web](https://dmytrochumakov.github.io/MyDictionary-Web/)
 
 ## References
 - https://pomaka.com/wp-content/uploads/2018/11/dictionaries-1200x480.jpg
